@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sawant</h1>
 <h3 align="center">QA Engineer | Manual & Automation Testing | Exploring Java, Selenium & AI | Lifelong Learner</h3>
-![GitHub Banner](https://wallpapercave.com/wp/wp10992146.png)
+<img src="https://wallpapercave.com/wp/wp10992146.png" alt="GitHub Banner" width="800">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dusawant3&label=Profile%20views&color=0e75b6&style=flat" alt="dusawant3" /> </p>
 
