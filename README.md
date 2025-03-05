@@ -1,6 +1,3 @@
-# <p align="center">
- # <img src="newimg.png" alt="GitHub Banner" width="100%">
- # </p>
 
 <h1 align="center">Hi 👋, I'm Durgesh Sawant</h1>
 <h3 align="center">QA Engineer | Manual & Automation Testing | Exploring Java, Selenium & AI | Lifelong Learner</h3>
