@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sawant</h1>
 <h3 align="center">QA Engineer | Manual & Automation Testing | Exploring Java, Selenium & AI | Lifelong Learner</h3>
+![GitHub Banner](https://wallpapercave.com/wp/wp10992146.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dusawant3&label=Profile%20views&color=0e75b6&style=flat" alt="dusawant3" /> </p>
 
-- 🔭 I’m currently working on **Enhancing my skills in Automation Testing (Java, Selenium).| Preparing for ISTQB Foundation Certification. |Exploring AI in Testing for Smarter Test Automation**
+- 🔭 I’m working on **Enhancing my skills in Automation Testing (Java, Selenium).| Preparing for ISTQB Foundation Certification. |Exploring AI in Testing for Smarter Test Automation**
 
 - 🌱 I’m currently learning **AI in Testing (Exploring AI-powered test automation)**
 
