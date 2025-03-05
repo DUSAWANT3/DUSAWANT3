@@ -6,18 +6,29 @@
   <img src="https://komarev.com/ghpvc/?username=dusawant3&label=Profile%20views&color=0e75b6&style=flat" alt="dusawant3" /> 
 </p>
 
-- 🔭 I’m working on **Enhancing my skills in Automation Testing (Java, Selenium). | Preparing for ISTQB Foundation Certification. | Exploring AI in Testing for Smarter Test Automation**
+- 🔭 Currently Working On:
 
-- 🌱 I’m currently learning **AI in Testing (Exploring AI-powered test automation)**
+Enhancing skills in Automation Testing with Java and Selenium.
 
-- 👯 I’m looking to collaborate on **Automation Testing Projects (Selenium, Java, TestNG) | API Testing using Postman & RestAssured | AI in Testing – exploring AI-based test automation | Open Source QA Projects to contribute and learn.**
+Preparing for the ISTQB Foundation Certification.
 
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/DUSAWANT3)
+Exploring AI-powered test automation to achieve smarter and more efficient testing.
 
-- 📫 How to reach me **Email: durgeshsawant3032@gmail.com | LinkedIn: [linkedin.com/in/durgeshsawant](https://linkedin.com/in/durgeshsawant) | +91-9834466495**
+- 🌱 Learning Journey:
 
-- ⚡ Fun fact **I love breaking software just as much as I enjoy fixing it!**
+Expanding knowledge in AI applications in Testing for innovative and adaptive QA solutions.
 
+- 👯 Open to Collaboration On:
+
+Automation Testing Projects: Selenium, Java, TestNG.
+
+API Testing: Using Postman & RestAssured.
+
+Exploring AI-based test automation.
+
+Contributing to Open Source QA Projects to grow and share expertise.
+
+- 👨‍💻 Discover My Projects: Visit my GitHub repository to explore my work: GitHub - DUSAWANT3
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/durgeshsawant" target="blank">
